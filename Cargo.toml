@@ -1,7 +1,7 @@
 [workspace]
 
 [package]
-name = "crusts"
+name = "crusts-sg"
 version = "0.0.2"
 edition = "2021"
 authors = [
@@ -11,10 +11,11 @@ authors = [
     "Yuan Wang <yuan.wang@huawei.com>",
     "James R. Cordy <cordy@cs.queensu.ca>",
     "Ahmed E. Hassan <hassan@queensu.ca>",
+    "Xiping Huang <xphuang@smu.edu.sg>",
 ]
 description = "CRustS - From Unsafe C to safer Rust"
-repository = "https://github.com/yijunyu/crusts"
-documentation = "https://docs.rs/crusts"
+repository = "https://github.com/sheldonhh/crusts"
+documentation = "https://docs.rs/crusts-sg"
 keywords = ["rust", "c2rust", "refactoring"]
 license = "Apache-2.0"
 
