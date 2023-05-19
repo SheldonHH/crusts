@@ -119,7 +119,7 @@ fn main() {
                     return;
                 }
                 let file = &format!("{}", &p.into_os_string().to_string_lossy());
-                crusts(file);
+                // crusts(file);
             }
         });
 }
